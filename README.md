@@ -35,8 +35,22 @@ El juego fué elaborado a partir del desarrollo de los cursos de **Alura Latam**
 
 La idea del juego ***"Juego del amigo secreto"***, consiste en reunir a un grupo de personas, las cuales van a realizar una actividad
 grupal de integración. Habrá un lider de la actividad y los participantes. La cantidad de participantes deberá ser un número par.
-El lider tendrá que digitar el nombre de todos los participantes en el espacio que menciona ***"Escribe un nombre"*** del dashboard. 
-Una vez digitado el nombres de todos los participantes, el lider de la actividad comenzará a sortear los nombres. 
+El lider tendrá que digitar el nombre de todos los participantes uno por uno, en el espacio que menciona ***"Escribe un nombre"*** del
+dashboard, continuo del botón **"Añadir"¨** como se muestra la siguiente imagen: 
+
+<p align="center">
+<img src="assets/guia-escribirNombre.png" width="20%" alt="Guía escribir nombre">
+</p>
+
+Para hacer efectivo el registro de cada participante. Una vez digitado el nombres de todos los participantes, el lider de la actividad 
+comenzará a sortear los nombres. 
+
+Para sortear los nombres, solo deberá de hacer **click** en el botón ***"Sortear amigo"*** que se encuentra en la parte inferior como 
+muestra la siguiente imagen: 
+
+<p align="center">
+<img src="assets/guia_sortearAmigo.png" width="20%" alt="Guía sortear amigo:">
+</p>
 
 El lider llamará uno por uno a los participantes. Uno a uno, irá sorteando en el juego y dandole a conocer al participante que se acercó 
 el nombre sorteado que le correspondió. Una vez hecho esto con todos los participantes, los participantes tendrán que dar un regalo
@@ -48,7 +62,7 @@ hacer un nuevo sorteo, deberá de actualizar la página.
 :video_game: ***O puedes jugarlo directamente escaneando el código QR a continuación:***
 
 <p align="center">
-<img src="assets/QR_Page.png" width="20%" alt="Código QR:">
+<img src="assets/QR_Page.png" width="20%" alt="Código QR">
 </p>
 
 :tada: **Diviertete jugando y compartiendo con tus amigos** :tada:
