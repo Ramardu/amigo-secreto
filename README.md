@@ -47,7 +47,7 @@ hacer un nuevo sorteo, deberá de actualizar la página.
 
 :video_game: ***O puedes jugarlo directamente escaneando el código QR***
 
-<img src="assets/QR page.png" alt="Código QR">
+<img src="assets/QR_page.png" alt="Código QR">
 
 :tada: **Diviertete jugando y compartiendo con tus amigos** :tada:
 
