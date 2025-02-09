@@ -30,6 +30,9 @@ El juego fué elaborado a partir del desarrollo de los cursos de **Alura Latam**
 * ***Git y GitHub:*** repositorio, commit y versiones.
 
 ***Link:*** https://app.aluracursos.com/course/git-github-repositorio-commit-versiones
+* ***ChatGPT:*** optimizando la calidad de los resultados.
+
+***Link:*** https://app.aluracursos.com/course/chatgpt-optimizando-calidad-resultados
 
 <h2>:blue_book: Guía de uso :blue_book:</h2>
 
