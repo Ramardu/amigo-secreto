@@ -49,5 +49,10 @@ hacer un nuevo sorteo, deberá de actualizar la página.
 
 <img src="assets/QR_page.png" alt="Código QR">
 
+
+
+
+
+
 :tada: **Diviertete jugando y compartiendo con tus amigos** :tada:
 
