@@ -44,6 +44,8 @@ function sortearAmigo() {
         alert("Todos los amigos ya han sido sorteados.");
         return;
     } 
+    
+    document.querySelector("#resultado").innerHTML = "";
 
     let indiceAleatorio = Math.floor(Math.random() * amigos.length);
     let amigoSorteado = amigos.splice(indiceAleatorio, 1)[0]; 
