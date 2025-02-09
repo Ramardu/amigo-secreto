@@ -39,7 +39,7 @@ El lider tendrá que digitar el nombre de todos los participantes uno por uno, e
 dashboard, continuo del botón **"Añadir"¨** como se muestra la siguiente imagen: 
 
 <p align="center">
-<img src="assets/guia-escribirNombre.png" width="20%" alt="Guía escribir nombre">
+<img src="assets/guia-escribirNombre.png" width="40%" alt="Guía escribir nombre">
 </p>
 
 Para hacer efectivo el registro de cada participante. Una vez digitado el nombres de todos los participantes, el lider de la actividad 
@@ -49,8 +49,8 @@ Para sortear los nombres, solo deberá de hacer **click** en el botón ***"Sorte
 muestra la siguiente imagen: 
 
 <p align="center">
-<img src="assets/guia_sortearAmigo.png" width="20%" alt="Guía sortear amigo:">
-</p>
+<img src="assets/guia-sortearAmigo.png" width="40%" alt="Guía sortear amigo">
+</p>            
 
 El lider llamará uno por uno a los participantes. Uno a uno, irá sorteando en el juego y dandole a conocer al participante que se acercó 
 el nombre sorteado que le correspondió. Una vez hecho esto con todos los participantes, los participantes tendrán que dar un regalo
