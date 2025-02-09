@@ -11,8 +11,8 @@
 
 <h2 align="left"> :pencil: Introducción :pencil: </h2>
 
-El repositorio **"amigo-secreto"**, es un juego realizado en el Challenge del curso de **Alura Latam** en ***"Principiante en Programación G8 - ONE"***. 
-El juego consiste en sortear un nombre aleatorio de los suministrados anteriormente en el dashboard del Website.
+El repositorio **"amigo-secreto"**, es un juego realizado en el ***Challenge*** del curso de **Alura Latam** en ***"Principiante en 
+Programación G8 - ONE"***. El juego consiste en sortear un nombre aleatorio de los suministrados anteriormente en el dashboard del Website.
 
 
 :bulb: **Juegalo con tus amigos**   :bulb: **Fácil de juegar**   :bulb: **Divertido**   :bulb: **Comparte con tus amigos**
