@@ -37,9 +37,11 @@ La idea del juego ***"Juego del amigo secreto"***, consiste en reunir a un grupo
 grupal de integración. Habrá un lider de la actividad y los participantes. La cantidad de participantes deberá ser un número par.
 El lider tendrá que digitar el nombre de todos los participantes en el espacio que menciona "Escribe un nombre" del dashboard. 
 Una vez digitado el nombres de todos los participantes, el lider de la actividad comenzará a sortear los nombres. 
+
 El lider llamará uno por uno a los participantes. Uno a uno, irá sorteando en el juego y dandole a conocer al participante que se acercó 
 el nombre sorteado que le correspondió. Una vez hecho esto con todos los participantes, los participantes tendrán que dar un regalo
-sorpresa al amigo secreto que le correspondió 3 días después del sorteo en una actividad de integración.
+sorpresa al amigo secreto que le correspondió 3 días después del sorteo en una actividad de integración. Una vez finalizado, si se desea
+hacer un nuevo sorteo, deberá de actualizar la página.
 
 :video_game: ***Puedes jugarlo directamente haciendo click aquí:*** https://ramardu.github.io/amigo-secreto/
 
