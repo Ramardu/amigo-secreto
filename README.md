@@ -45,5 +45,9 @@ hacer un nuevo sorteo, deberá de actualizar la página.
 
 :video_game: ***Puedes jugarlo directamente haciendo click aquí:*** https://ramardu.github.io/amigo-secreto/
 
+:video_game: ***O puedes jugarlo directamente escaneando el código QR***
+
+<img src="assets/QR page.png" alt="Código QR">
+
 :tada: **Diviertete jugando y compartiendo con tus amigos** :tada:
 
