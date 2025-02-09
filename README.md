@@ -21,13 +21,13 @@ El juego consiste en sortear un nombre aleatorio de los suministrados anteriorme
 
 El juego fué elaborado a partir del desarrollo de los cursos de Alura Latam en:
 
-* Lógica de programación: sumérgete en la programación con JavaScript.
+* ***Lógica de programación:*** sumérgete en la programación con JavaScript.
   
 ***Link:*** https://app.aluracursos.com/course/logica-programacion-sumergete-programacion-javascript
-* Lógica de programación: explorar funciones y listas.
+* ***Lógica de programación:*** explorar funciones y listas.
 
 ***Link:*** https://app.aluracursos.com/course/logica-programacion-explorar-funciones-listas
-* Git y GitHub: repositorio, commit y versiones.
+* ***Git y GitHub:*** repositorio, commit y versiones.
 
 ***Link:*** https://app.aluracursos.com/course/git-github-repositorio-commit-versiones
 
