@@ -39,14 +39,13 @@ El juego fué elaborado a partir del desarrollo de los cursos de **Alura Latam**
 La idea del juego ***"Juego del amigo secreto"***, consiste en reunir a un grupo de personas, las cuales van a realizar una actividad
 grupal de integración. Habrá un lider de la actividad y los participantes. La cantidad de participantes deberá ser un número par.
 El lider tendrá que digitar el nombre de todos los participantes uno por uno, en el espacio que menciona ***"Escribe un nombre"*** del
-dashboard, continuo del botón **"Añadir"¨** como se muestra en la siguiente imagen: 
+dashboard, continuo del botón **"Añadir"¨** para hacer efectivo el registro de cada participante, como se muestra en la siguiente imagen: 
 
 <p align="center">
 <img src="assets/guia-escribirNombre.png" width="40%" alt="Guía escribir nombre">
 </p>
 
-Para hacer efectivo el registro de cada participante. Una vez digitado el nombres de todos los participantes, el lider de la actividad 
-comenzará a sortear los nombres. 
+Una vez digitado el nombres de todos los participantes, el lider de la actividad comenzará a sortear los nombres. 
 
 Para sortear los nombres, solo deberá de hacer **click** en el botón ***"Sortear amigo"*** que se encuentra en la parte inferior como 
 muestra en la siguiente imagen: 
