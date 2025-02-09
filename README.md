@@ -19,7 +19,7 @@ El juego consiste en sortear un nombre aleatorio de los suministrados anteriorme
 
 <h2>:construction: Proceso de elaboración :construction:</h2>
 
-El juego fué elaborado a partir del desarrollo de los cursos de Alura Latam en:
+El juego fué elaborado a partir del desarrollo de los cursos de **Alura Latam** en:
 
 * ***Lógica de programación:*** sumérgete en la programación con JavaScript.
   
