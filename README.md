@@ -55,7 +55,7 @@ muestra en la siguiente imagen:
 </p>            
 
 El lider llamará uno por uno a los participantes. Uno a uno, irá sorteando en el juego y dandole a conocer al participante que se acercó 
-el nombre sorteado que le correspondió. El nombre sorteado se podrá ver en verde justo arriba del botón ***"Sortear amigo"***, como se 
+el nombre sorteado que le correspondió. El nombre sorteado se podrá ver en **verde** justo arriba del botón ***"Sortear amigo"***, como se 
 muestra en la siguiente imagen:
 
 <p align="center">
