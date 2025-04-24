@@ -11,15 +11,15 @@
 
 <h2 align="left"> :pencil: Introducción :pencil: </h2>
 
-<p align="justify">El repositorio **"amigo-secreto"**, es un juego realizado en el ***Challenge*** del curso de **Alura Latam** en ***"Principiante en 
-Programación G8 - ONE"***. El juego consiste en sortear un nombre aleatorio de los suministrados anteriormente en el dashboard del Website.</p>
+<p align="justify">El repositorio <strong>"amigo-secreto"</strong>, es un juego realizado en el <strong>Challenge</strong> del curso de <strong>Alura Latam</strong> en <stron>"Principiante en 
+Programación G8 - ONE"</stron>. El juego consiste en sortear un nombre aleatorio de los suministrados anteriormente en el dashboard del Website.</p>
 
 
 :bulb: **Juegalo con tus amigos**   :bulb: **Fácil de juegar**   :bulb: **Divertido**   :bulb: **Comparte con tus amigos**
 
 <h2>:construction: Proceso de elaboración :construction:</h2>
 
-<p align="justify">El juego fué elaborado a partir del desarrollo de los cursos de **Alura Latam** en:</p>
+<p align="justify">El juego fué elaborado a partir del desarrollo de los cursos de <strong>Alura Latam</strong> en:</p>
 
 * ***Lógica de programación:*** sumérgete en la programación con JavaScript.
   
@@ -36,10 +36,10 @@ Programación G8 - ONE"***. El juego consiste en sortear un nombre aleatorio de 
 
 <h2>:blue_book: Guía de uso :blue_book:</h2>
 
-<p align="justify">La idea del juego ***"Juego del amigo secreto"***, consiste en reunir a un grupo de personas, las cuales van a realizar una actividad
+<p align="justify">La idea del juego <strong>"Juego del amigo secreto"</strong>, consiste en reunir a un grupo de personas, las cuales van a realizar una actividad
 grupal de integración. Habrá un lider de la actividad y los participantes. La cantidad de participantes deberá ser un número par.
-El lider tendrá que digitar el nombre de todos los participantes uno por uno, en el espacio que menciona ***"Escribe un nombre"*** del
-dashboard, continuo del botón **"Añadir"¨** para hacer efectivo el registro de cada participante, como se muestra en la siguiente imagen:</p>
+El lider tendrá que digitar el nombre de todos los participantes uno por uno, en el espacio que menciona <strong>"Escribe un nombre"</strong> del
+dashboard, continuo del botón <strong>"Añadir"</strong> para hacer efectivo el registro de cada participante, como se muestra en la siguiente imagen:</p>
 
 <p align="center">
 <img src="assets/guia-escribirNombre.png" width="40%" alt="Guía escribir nombre">
@@ -47,7 +47,7 @@ dashboard, continuo del botón **"Añadir"¨** para hacer efectivo el registro d
 
 <p align="justify">Una vez digitado el nombres de todos los participantes, el lider de la actividad comenzará a sortear los nombres.</p>
 
-<p align="justify">Para sortear los nombres, solo deberá de hacer **click** en el botón ***"Sortear amigo"*** que se encuentra en la parte inferior como 
+<p align="justify">Para sortear los nombres, solo deberá de hacer <strong>click</strong> en el botón <strong>"Sortear amigo"</strong> que se encuentra en la parte inferior como 
 muestra en la siguiente imagen:</p>
 
 <p align="center">
@@ -55,7 +55,7 @@ muestra en la siguiente imagen:</p>
 </p>            
 
 <p align="justify">El lider llamará uno por uno a los participantes. Uno a uno, irá sorteando en el juego y dandole a conocer al participante que se acercó 
-el nombre sorteado que le correspondió. El nombre sorteado se podrá ver en **verde** justo arriba del botón ***"Sortear amigo"***, como se 
+el nombre sorteado que le correspondió. El nombre sorteado se podrá ver en <strong>verde</strong> justo arriba del botón <strong>"Sortear amigo"</strong>, como se 
 muestra en la siguiente imagen:</p>
 
 <p align="center">
